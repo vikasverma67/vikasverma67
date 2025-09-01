@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Web Development <br>👯 I’m looking to collaborate on Deep Learning  model<br>🌱 I’m currently learning Full Stack Development<br>💬 I am btech 4yr Student with Computer Science Branch
+🔭 I’m currently working on Machine Learning and Web Development <br>👯 I’m looking to collaborate on Deep Learning  model<br>🌱 I’m currently learning Full Stack Development<br>💬 I have completed my bachlelor degree in Computer Science Branch
 
 
 ## 🌐 Socials:
